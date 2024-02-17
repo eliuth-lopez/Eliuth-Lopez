@@ -1,24 +1,33 @@
-# Hola, soy Eliuth López 👋
+# Hi, I'm Eliuth López 👋
 
-## 🚀 Acerca de mí
-Soy un apasionado desarrollador de software...
+## 🚀 About me
+I am a passionate software developer with a knack for solving complex problems. I specialize in building high-quality, scalable applications and have a strong interest in open source technologies. Always willing to learn new skills and take on challenges, I thrive in collaborative environments where I can contribute to the team's success.
 
-- 🌱 Actualmente estoy aprendiendo ... 
-- 👯 Estoy buscando colaborar en ...
-- 🤔 Estoy buscando ayuda con ...
-- 💬 Pregunta me acerca de ...
-- 📫 Cómo llegar a mí: ...
-- 😄 Pronombres: ...
-- ⚡ Dato curioso: ...
+- 🌱 I am currently learning...
+- 👯 I am looking to collaborate in...
+- 🤔 I'm looking for help with...
+- 💬 Ask me about...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-## 🛠 Habilidades técnicas
-JavaScript, React, Node.js, Express.js, MongoDB, Python...
+## 🛠 Technical skills
+ - JavaScript
+ - TypeScript
+ - NodeJS
+ - ExpressJS
+ - ReactJS
+ - VueJS
+ - AngularJS v16
+ - MongoDB
+ - MariaDB
+ - SQLServer
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Statistics
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Eliuth-Lopez&show_icons=true&theme=radical)
+![Your GitHub statistics](https://github-readme-stats.vercel.app/api?username=Eliuth-Lopez&show_icons=true&theme=radical)
 
-## 🏆 Logros
+## 🏆 Achievements
 
 - Logro 1
 - Logro 2
@@ -26,9 +35,8 @@ JavaScript, React, Node.js, Express.js, MongoDB, Python...
 
 ## 📝 Blogs
 
-Escribo regularmente en [mi blog](https://www.tublog.com/).
+I write regularly on [my blog](https://www.tublog.com/).
 
-## 📚 Últimos proyectos
+## 📚 Last projects
 
-- [Proyecto 1](https://github.com/tu_nombre_de_usuario/proyecto1)
-- [Proyecto 2](https://github.com/tu_nombre_de_usuario/proyecto2)
+- [Example API With NodeJs Typescript and Express]([https://github.com/tu_nombre_de_usuario/proyecto1](https://github.com/eliuth-lopez/example-typescript-nodejs-express)https://github.com/eliuth-lopez/example-typescript-nodejs-express)
