@@ -7,7 +7,9 @@ I am a passionate software developer with a knack for solving complex problems. 
 - 👯 I am looking to collaborate on: public and private projects that contribute to my professional growth
 - ⚡ Fun fact: I usually collaborate on low-budget projects when the concept excites me
 
+
 ## 🛠 Technical skills
+
  - JavaScript
  - TypeScript
  - NodeJS
@@ -19,6 +21,7 @@ I am a passionate software developer with a knack for solving complex problems. 
  - MariaDB
  - SQLServer
 
+
 ## 📈 GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=Eliuth-Lopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -27,9 +30,15 @@ I am a passionate software developer with a knack for solving complex problems. 
 
 
 ## Forums where I post
-- [dev.to](https://dev.to/eliuthlopez)
-- [Stackoverflow](https://stackoverflow.com/users/23430811/eliuth-l%C3%B3pez)
+- [DevTo](https://dev.to/eliuthlopez)
+- [Stackoverflow](https://stackoverflow.com/users/23430811/eliuth-lopez)
 - [Medium](https://medium.com/@eli.l.g)
+
+
+## My courses and certifications
+
+- [Codigo Facilito](https://github.com/eliuth-lopez#:~:text=https%3A//codigofacilito.com/usuarios/eliuthlopez)
+
 
 ## 📚 Last projects
 
