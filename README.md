@@ -26,6 +26,11 @@ I am a passionate software developer with a knack for solving complex problems. 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliuth-Lopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
+## Forums where I post
+- [dev.to](https://dev.to/eliuthlopez)
+- [Stackoverflow](https://stackoverflow.com/users/23430811/eliuth-l%C3%B3pez)
+- [Medium](https://medium.com/@eli.l.g)
+
 ## 📚 Last projects
 
 - [Example API With NodeJs Typescript and Express](https://github.com/tu_nombre_de_usuario/proyecto1](https://github.com/eliuth-lopez/example-typescript-nodejs-express)https://github.com/eliuth-lopez/example-typescript-nodejs-express)
