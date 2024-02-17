@@ -21,17 +21,10 @@ I am a passionate software developer with a knack for solving complex problems. 
 
 ## 📈 GitHub Statistics
 
-![Your GitHub statistics](https://github-readme-stats.vercel.app/api?username=Eliuth-Lopez&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Eliuth-Lopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Eliuth-Lopez&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliuth-Lopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-## 🏆 Achievements
-
-- Logro 1
-- Logro 2
-- Logro 3
-
-## 📝 Blogs
-
-I write regularly on [my blog](https://www.tublog.com/).
 
 ## 📚 Last projects
 
